@@ -1,4 +1,5 @@
 # To add and improve functionalities
+# To change if statements with switch case
 
 import time
 

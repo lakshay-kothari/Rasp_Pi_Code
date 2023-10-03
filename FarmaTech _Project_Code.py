@@ -1,3 +1,5 @@
+# To add and improve functionalities
+
 import time
 
 # Function - read soil moisture data from the sensor
